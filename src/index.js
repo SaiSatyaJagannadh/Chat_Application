@@ -1,4 +1,4 @@
-//server side
+//server side Code
 
 
 //requirements to create the goal of chat app
@@ -11,12 +11,14 @@
 //3.create index.html and render "chat App" to screen
 //4.test your work|view the page in the browser and start the server
 
+//This chat application is very usefulS
+
 
 
 //loading express
 const express=require('express')
 const http=require('http')//to get the page
-const socketio=require('socket.io')//socket loading
+const socketio=require('socket.io')    //socket loading
 
 //loading path
 const path=require('path')
